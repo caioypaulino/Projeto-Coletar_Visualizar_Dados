@@ -346,7 +346,7 @@ Soma Contagem de "Rides" ao Longo do Tempo.
 ![Moving Average](https://github.com/caioypaulino/Projeto-Coletar_Visualizar_Dados/blob/main/Dashboard%20Images/Moving%20Average.png)
 
 ### **Total "Rides":**
-Soma Contagem de "Rides" no Período Tempo Selecionado (In Range).
+Soma Contagem de "Rides" no Período de Tempo Selecionado (In Range).
 
 ![Total Rides](https://github.com/caioypaulino/Projeto-Coletar_Visualizar_Dados/blob/main/Dashboard%20Images/Total%20Rides.png)
 
