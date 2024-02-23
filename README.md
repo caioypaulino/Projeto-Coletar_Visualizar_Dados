@@ -1,4 +1,4 @@
-# **Projeto: Pipeline de Análise de Dados (Python to Tableau)**
+# **Projeto: Pipeline de Análise de Dados: London Bike Sharing (Python e Tableau)**
 
 ## **Stack**
 Python (pandas, zipfile, kaggle), Excel (export to .xlsx), Tableau
