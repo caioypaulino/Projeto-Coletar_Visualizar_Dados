@@ -1,4 +1,4 @@
-# **Projeto: Coletar, Manipular e Visualizar Dados (Python to Tableau)**
+# **Projeto: Pipeline de Análise de Dados (Python to Tableau)**
 
 ## **Stack**
 Python (pandas, zipfile, kaggle), Excel (export to .xlsx), Tableau
